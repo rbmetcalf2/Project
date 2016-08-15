@@ -1,3 +1,8 @@
+# I am not sure this is what I am supposed to do.
+# This seems like very simple code to be evaluated 
+# and it was already checked by the DataCamp software.
+# Am I missing something?
+
 # titanic is avaliable in your workspace
 
 # Check out the structure of titanic
